@@ -1,5 +1,13 @@
-An IOTA seed generator.
+#IOTA Seed Generator
 
-Generates an IOTA seed of length 81 using uppercase ASCII characters and the number 9. Simply clone the file and run it through the terminal with
+From iotaseed.io:
 
-python seedgenerator.py
+Between 2017 and 2018 a ‘hacker’ stole more than 10 million Euros in IOTA coins.
+
+He created the malicious website www.iotaseed.io where users could allegedly safely generate their 81-digit IOTA seeds.
+
+This script safely generates a valid IOTA seed locally.
+
+Clone the file and run the following command:
+
+python3 seedgenerator.py
